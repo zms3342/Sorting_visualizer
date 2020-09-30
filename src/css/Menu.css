@@ -1,0 +1,8 @@
+.menu{
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.menu__buttons >button{
+    padding: 5px;
+}
