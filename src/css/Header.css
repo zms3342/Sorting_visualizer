@@ -1,0 +1,13 @@
+.header{
+    color: black;
+    height: 50px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding-top: 10px;
+}
+.header >h1{
+    display: flex;
+    justify-content: center;
+}
